@@ -1,0 +1,8 @@
+name: butterfly_model
+url: https://github.com/nbarlowATI/butterfly_classification_model
+import: butterfly_classification_model
+model: efficientNetB3
+prediction_fn:
+    call: predict
+    args:
+        X: image
