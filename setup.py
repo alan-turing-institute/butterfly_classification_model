@@ -10,9 +10,9 @@ with open("requirements.txt") as f:
 
 setup(
     name="butterfly_classification_model",
-    version="0.0.1",
+    version="0.0.2",
     description="scivision plugin, using EfficientNetB3 model",
-    url="https://github.com/nbarlowATI/butterfly_classification_model",
+    url="https://github.com/alan-turing-institute/butterfly_classification_model",
     packages=find_packages(),
     install_requires=requirements,
     python_requires=">=3.7",
