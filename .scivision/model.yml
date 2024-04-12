@@ -1,5 +1,5 @@
 name: butterfly_model
-url: https://github.com/Tonks684/butterfly_classification_model
+url: https://github.com/alan-turing-institute/butterfly_classification_model
 import: butterfly_classification_model
 model: efficientNetB3
 prediction_fn:
