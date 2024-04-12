@@ -5,4 +5,4 @@ seaborn
 opencv-python
 scikit-learn
 scikit-image
-#tensorflow
+tensorflow
